@@ -8,34 +8,34 @@ class Experience extends Component {
     return (
       <div className="landing container">
 
-        <div class="card col-md-12">
-          <div class="card-body">
-            <h5 class="card-title">Keytree, Port Talbot— JavaScript Developer</h5>
-            <p class="card-text">February 2018 - PRESENT</p>
+        <div className="card col-md-12">
+          <div className="card-body">
+            <h5 className="card-title">Keytree, Port Talbot— JavaScript Developer</h5>
+            <p className="card-text">February 2018 - PRESENT</p>
           </div>
         </div>
-        <div class="card col-md-12">
-          <div class="card-body">
-            <h5 class="card-title">Jax Web Studios, Port Talbot — Software Engineer/CEO </h5>
-            <p class="card-text">June 2016 - February 2018</p>
+        <div className="card col-md-12">
+          <div className="card-body">
+            <h5 className="card-title">Jax Web Studios, Port Talbot — Software Engineer/CEO </h5>
+            <p className="card-text">June 2016 - February 2018</p>
           </div>
         </div>
-        <div class="card col-md-12">
-          <div class="card-body">
-            <h5 class="card-title">AMEC, Llandarcy — Plant & Transport Officer </h5>
-            <p class="card-text">October 2014 - October 2016</p>
+        <div className="card col-md-12">
+          <div className="card-body">
+            <h5 className="card-title">AMEC, Llandarcy — Plant & Transport Officer </h5>
+            <p className="card-text">October 2014 - October 2016</p>
           </div>
         </div>
-        <div class="card col-md-12">
-          <div class="card-body">
-            <h5 class="card-title">Hargreaves, Port Talbot— Administrator </h5>
-            <p class="card-text">March 2012 - October 2014</p>
+        <div className="card col-md-12">
+          <div className="card-body">
+            <h5 className="card-title">Hargreaves, Port Talbot— Administrator </h5>
+            <p className="card-text">March 2012 - October 2014</p>
           </div>
         </div>
-        <div class="card col-md-12">
-          <div class="card-body">
-            <h5 class="card-title">WetherSpoons, Port Talbot— Bar Associate </h5>
-            <p class="card-text">May 2010 - March 2012</p>
+        <div className="card col-md-12">
+          <div className="card-body">
+            <h5 className="card-title">WetherSpoons, Port Talbot— Bar Associate </h5>
+            <p className="card-text">May 2010 - March 2012</p>
           </div>
         </div>
       </div>
