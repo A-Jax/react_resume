@@ -38,7 +38,7 @@ class Navbar extends Component {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/qualifications">
+                <Link className="nav-link" to="/projects">
                   {' '}
                   Recent Projects / GISTS
                 </Link>

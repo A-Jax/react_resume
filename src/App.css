@@ -32,7 +32,17 @@
   padding-bottom: 10px;
 }
 
-.contact {
+.card {
+  background-color: #383C42
+}
 
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
 }
 

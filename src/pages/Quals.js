@@ -8,7 +8,7 @@ class Quals extends Component {
     return (
       <div className="landing container">
 
-        <div className="card col-md-12">
+        <div className="card col-md-12 wow fadeInDown" data-wow-delay="0.4s">
           <div className="card-body">
             <h5 className="card-title">Udacity/Google — Nanodegree</h5>
             <p className="card-text">Mobile Web Specialist Nanodegree, taught by Udacity in collaboration
@@ -16,7 +16,7 @@ class Quals extends Component {
             <small>2017 - PRESENT</small>
           </div>
         </div>
-        <div className="card col-md-12">
+        <div className="card col-md-12 wow fadeInDown" data-wow-delay="1s">
           <div className="card-body">
             <h5 className="card-title">Cynffig Sixthform College, Kenfig Hill— A Levels</h5>
             <p className="card-text">ICT /
@@ -24,7 +24,7 @@ class Quals extends Component {
             <small>2008 - 2010 </small>
           </div>
         </div>
-        <div className="card col-md-12">
+        <div className="card col-md-12 wow fadeInDown" data-wow-delay="1.6s">
           <div className="card-body">
             <h5 className="card-title">Cynffig Comprehensive School, Kenfig Hill— GCSE </h5>
             <p className="card-text">Maths /

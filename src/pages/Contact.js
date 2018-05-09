@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 class Contact extends Component {
   render() {
     return (
-      <div className="landing container animated fadeInUp">
+      <div className="landing container wow fadeInUp">
         <form>
           <div className="form-group">
             <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />

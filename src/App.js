@@ -11,6 +11,7 @@ import About from './pages/About'
 import Experience from './pages/Experience';
 import Contact from './pages/Contact';
 import Quals from './pages/Quals';
+import Projects from './pages/Projects';
 //import components
 import Navbar from './components/Navbar'
 import Footer from './components/Footer';
@@ -27,7 +28,7 @@ class App extends Component {
           <Route exact path="/experience" component={Experience} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/qualifications" component={Quals} />
-          <Footer />
+          <Route exact path="/projects" component={Projects} />
         </div>
        
       </Router>

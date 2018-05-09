@@ -2,3 +2,13 @@
   width: 45%;
   border-radius: 20%;
 }
+
+.margin {
+  margin: 0 25px
+}
+
+.sidebar {
+  z-index: 50;
+  position: fixed;
+  text-align: center
+}
